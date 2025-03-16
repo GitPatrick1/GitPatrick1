@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GitPatrick1
+# @GitPatrick1
 
 # 💫 About Me:
 IT High School Student
