@@ -1,4 +1,4 @@
-## Hey 👋, I'm Patrick Colucci!  
+## Hey 👋, I'm Patrick!  
 
 <a href="https://github.com/GitPatrick1" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
