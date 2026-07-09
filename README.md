@@ -107,6 +107,3 @@ I regularly challenge myself in competitive environments: I ranked 160th nationw
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
