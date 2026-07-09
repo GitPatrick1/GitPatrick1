@@ -1,7 +1,7 @@
 # @GitPatrick1
 
 # 💫 About Me:
-IT High School Student
+IT Student
 
 
 # 💻 Tech Stack:
